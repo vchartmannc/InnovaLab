@@ -1,0 +1,7 @@
+# Archivo de exclusión para Prettier
+node_modules/
+dist/
+build/
+coverage/
+.gradle/
+*.log
